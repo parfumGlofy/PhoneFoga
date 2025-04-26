@@ -12,6 +12,6 @@ OSINT tool sederhana berbasis AbstractAPI untuk melacak info dasar nomor HP.
 ```bash
 pkg install git python -y
 pip install requests colorama
-git clone https://github.com/username/PhoneFoga-0xGolip.git
-cd PhoneFoga-0xGolip
-python phonefoga_0xgolip.py
+git clone https://github.com/parfumGlofy/phonefoga_advanced.py.git
+cd phonefoga_advanced.py
+python phonefoga_advanced.py
